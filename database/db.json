@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "test@test.com",
+      "password": "$2a$10$3ryHO5pcVFVwIK9.C0JNQOBzrE8Bodv8dKLMsI55Ox4.da41fSNAy",
+      "fullname": "Mirza Khalilov"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "slug": "Electronics"
+    }
+  ]
+}
